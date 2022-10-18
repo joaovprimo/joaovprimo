@@ -12,19 +12,19 @@
 <li>🏄 Hobbies: surfing, linstening a good music, travelling and drinking a coffe.</li>
 </ul>
   <div align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=joaovprimo&count_private=true&show_icons=true%22"/>
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovprimo&layout=compact&langs_count=10%22"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=joaovprimo&count_private=true&show_icons=true%22">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovprimo&layout=compact&langs_count=10%22">
   </div>
  <h4>Connect with me:</h4>
-<a hrenf="mailto:jv.primo26@gmail.com" target="_blank">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:jv.primo26@gmail.com" target="_blank">
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
  </a>
- <a hrenf="https://www.linkedin.com/in/joaovprimo/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ <a href="https://www.linkedin.com/in/joaovprimo/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
- <a hrenf="[https://www.linkedin.com/in/joaovprimo/](https://www.instagram.com/joaovprimo/)" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
- 
+ <a href="https://www.instagram.com/joaovprimo/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+ </a>
 <h4>Languages and Tools:</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -36,7 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
 </div>
   
-
 
 
 
