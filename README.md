@@ -9,7 +9,7 @@
 <li>👨‍🎓 I'm graduated in Industrial Engeneering.</li>
 <li>💻 I’m currently learning Postgres.</li>
 <li> ✍️ I'm currently studying Software Engineering at Driven.</li>
-<li>🏄 Hobbies: surfing, linstening a good music, travelling and drinking a coffe.</li>
+<li>🏄 Hobbies: surfing, linstening good music, travelling and drinking coffe.</li>
 </ul>
   <div align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=joaovprimo&count_private=true&show_icons=true%22">
